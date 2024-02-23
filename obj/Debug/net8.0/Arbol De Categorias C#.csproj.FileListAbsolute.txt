@@ -1,0 +1,14 @@
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.AssemblyInfo.cs
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Arbol De Categorias C#\bin\Debug\net8.0\Arbol De Categorias C#.exe
+C:\Users\aleja\Desktop\Arbol De Categorias C#\bin\Debug\net8.0\Arbol De Categorias C#.deps.json
+C:\Users\aleja\Desktop\Arbol De Categorias C#\bin\Debug\net8.0\Arbol De Categorias C#.runtimeconfig.json
+C:\Users\aleja\Desktop\Arbol De Categorias C#\bin\Debug\net8.0\Arbol De Categorias C#.dll
+C:\Users\aleja\Desktop\Arbol De Categorias C#\bin\Debug\net8.0\Arbol De Categorias C#.pdb
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.dll
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\refint\Arbol De Categorias C#.dll
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.pdb
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\Arbol De Categorias C#.genruntimeconfig.cache
+C:\Users\aleja\Desktop\Arbol De Categorias C#\obj\Debug\net8.0\ref\Arbol De Categorias C#.dll
